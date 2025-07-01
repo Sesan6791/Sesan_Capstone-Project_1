@@ -45,7 +45,33 @@ I have approached review of Amazon product analysis by responding to each relate
    - Electronic|Wearable Technology|Smartwatches - 76 products
    - Electronic|Mobile&Accesories|Smartphones&Basemobile  -  68 products
    - Electronic|Hometheater, TV&Video|Television|Smart   -  62 products  
- 
+
+
+ #### Question 3. What is the total number of reviews per category? 
+
+  #### Output Analysis Result
+
+![Amazon Product Review_3](https://github.com/user-attachments/assets/a98a33f3-4752-4120-9f8e-d883a22701d8)
+
+
+ #### Report
+ The product data was analysed to find the number of product reviews of each product category. The dashboard has shown the pattern of the reviews undertaken by the customers for the products in different categories with 3 particular product categories having the largest review:
+   - Electronic|Wearable Technology|Smartwatches - 76 products
+   - Electronic|Mobile&Accesories|Smartphones&Basemobile  -  68 products
+   - Electronic|Hometheater, TV&Video|Television|Smart   -  63 products  
+
+
+  #### Question 4. Which products have the highest average ratings? 
+
+  #### Output Analysis Result
+
+![Amazon Product Review_4](https://github.com/user-attachments/assets/4b4847be-ad29-48b5-aad2-fad27d54fdb3)
+
+
+
+ #### Report
+ The product data was analysed to find the number of product reviews of each product category. The dashboard has shown the pattern of the reviews undertaken by the customers for the products in different categories with 3 particular product categories having the largest review:
+   - Computer&Accessories|Tablets - 4.6 rating
  
 
 
