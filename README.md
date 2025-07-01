@@ -16,9 +16,17 @@ I have approached review of Amazon product analysis by responding to each relate
 
 #### Question 1. What is the average discount percentage by product category? 
 
+     #### Output Analysis Result
+
+
+
+
 ![Amazon Product Review_1](https://github.com/user-attachments/assets/4fadd744-0308-4e56-9b76-1d8b0fdfae38)
 
 
+
+ #### Report
+ The average discount percentage of the product was analysed based on the product category. Electronic|Hearphone,Earbuds&Accesories|Earpads and Electronic|Mobile&Accesories|Mobileaccesories have the largest average discount percentage of 0.9 each.  
 
 
 
