@@ -16,6 +16,9 @@ I have approached review of Amazon product analysis by responding to each relate
 
 #### Question 1. What is the average discount percentage by product category? 
 
+![Amazon Product Review_1](https://github.com/user-attachments/assets/4fadd744-0308-4e56-9b76-1d8b0fdfae38)
+
+
 
 
 
