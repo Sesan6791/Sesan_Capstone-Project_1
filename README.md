@@ -70,8 +70,11 @@ I have approached review of Amazon product analysis by responding to each relate
 
 
  #### Report
- The product data was analysed to find the number of product reviews of each product category. The dashboard has shown the pattern of the reviews undertaken by the customers for the products in different categories with 3 particular product categories having the largest review:
+ The product data was analysed to find the number of product reviews of each product category. The dashboard has shown the pattern of the reviews undertaken by the customers for the products in different categories. The product with the highest rating is 
    - Computer&Accessories|Tablets - 4.6 rating
+
+  The product with the lowest rating is 
+   - Electronics|GeneralPurposeBatteries&BatteryChargers 4.4143 rating
  
 
 
