@@ -5,4 +5,15 @@ The Capstone Project is the final hand-on assignment to test my ability and skil
 
 (b) Palmora Group HR Analysis
 
+## Tools Used
+- Microsoft Excel
+  - Pivot table
+  - Excel functions
+  - Calculated columns  
+
 ## A. AMAZON PRODUCT REVIEW ANALYSIS
+I have approached review of Amazon product analysis by responding to each related question of the assignment. 
+
+### Question 1. What is the average discount percentage by product category?
+
+
