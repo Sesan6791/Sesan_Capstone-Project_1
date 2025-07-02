@@ -189,6 +189,29 @@ The pie chart presentation also showed values of total potential revenue for eac
 
 
 
+ #### Question 13. Which categories have products with the highest discounts?
+
+  #### Output Analysis Result
+
+![Amazon Product Review_13](https://github.com/user-attachments/assets/84c0e49e-dfd6-4842-8a36-ea31f7a1e974)
+
+
+ #### Report
+ The report has shown the products with the highest discounts. 
+
+
+  #### Question 14. Identify the top 5 products in terms of rating and number of reviews combined.
+
+  #### Output Analysis Result
+
+![Amazon Product Review_14](https://github.com/user-attachments/assets/1cca8426-e6fc-469d-9255-fee9ea184939)
+
+
+ #### Report
+ The report has shown the top 5 products according to the rating and number of reviews. 
+
+
+
   
   
 
