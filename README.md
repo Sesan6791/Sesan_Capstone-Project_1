@@ -148,7 +148,46 @@ The two products with highest number of reviews are:
 
 
  #### Report
- The total potential revenue of the product by category is  121,327,208,654.58. The data was analysed to find the products with discounts of 50% and more. The number of products of such position are 798.  
+ The total potential revenue of the product by category is  121,327,208,654.58. 
+ 
+The pie chart presentation also showed values of total potential revenue for each product in their sizes. 
+
+
+#### Question 10. What is the number of unique products per price range bucket (e.g., <₹200, ₹200–₹500, >₹500)?
+
+  #### Output Analysis Result
+
+![Amazon Product Review_10](https://github.com/user-attachments/assets/e30168bb-90ed-4186-aea0-4571f74cb714)
+
+
+ #### Report
+ The analysis has summarised the range of the product prices according to the unique products available within the company. 
+ There are 1,104 unique products within the price range of 200 - 5,000, and 226 unique products within the price range of 5,000 - 20,000.
+
+
+
+
+#### Question 11. How does the rating relate to the level of discount?
+
+  #### Output Analysis Result
+
+![Amazon Product Review_11](https://github.com/user-attachments/assets/32c55b80-a201-4b9c-b354-e8d62d0b2b24)
+
+
+ #### Report
+ The dashboard presentation show that the average discount is inversely proportinal to the range of rating. The higher the rating, the lower the average discount of the rpoducts. 
+
+
+#### Question 12. How many products have fewer than 1,000 reviews?
+
+  #### Output Analysis Result
+
+![Amazon Product Review_12](https://github.com/user-attachments/assets/ede5c9c8-60e9-4f69-8766-7d6db8958a79)
+
+ #### Report
+ The number of product with fewer than 1,000 reviews is 328.
+
+
 
   
   
