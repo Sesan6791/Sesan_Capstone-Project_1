@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f37e2a23-d750-4c27-a787-911923c9dbc6)# Sesan_Capstone-Project_1
+# SESAN CAPSTONE PROJECT
 The Capstone Project is the final hand-on assignment to test my ability and skillfulness in data analysis as acquired in the DSA training. The project required me to analyse data of two casestudy scenarios base on the information available. The related scenarios are:
 
 (a) Amazon Product Review Analysis and 
